@@ -2,22 +2,22 @@
 
 Submitted by: **Krish Kothari**
 
-**Name of your app** is an app that... [TODO] 
+**Color Changer** is an app that has three labels and one button. The labels are my name(Krish Kothari), the university I attend(University of Virginia), and my desired profession(App Developer). The button, when clicked, changes the background of the screen to any random color. The button can be clicked as many times as needed and the color of the background will be changed each time the button is clicked.
 
-Time spent: **30** mins spent in total
+Time spent: **30** minutes spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/ODcjLX7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -27,14 +27,27 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Spotify:
+- Personalized music recommendations based on my listening habits.
+- Different genres of music and artists are available at my fingertips.
+- Able to create and share playlists with family and friends.
+
+Youtube:
+- Easy to find relevant videos by using the search bar and personal recommendations provided on the home page.
+- Ability to subscribe to channels and receive notifications when new videos are uploaded, ensuring you stay connected to your favorite content creators.
+
+Snapchat:
+- Ability to send pictures(snaps) to your friends anywhere in the world as a means of staying connected with them.
+- Ability to put videos on your story which can showcase what you are doing and inform your friends about your status.
+
+An app that I am interested in building is a meditation app that shows different techniques of meditation and has in-built resources that can help users alleviate stress and find inner peace. This app would have a built-in timer that will be integrated with the guided meditation. Users will have the option to configure the timer to their liking, taking breaks in between if they wish. This app will ask the user how they feel before and after each session. Lastly, the app will record the user's history of every session and will be able to showcase which meditation technique helped them the most.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Krish Kothari]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
