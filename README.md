@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![](https://imgur.com/a/uDMbjg7.gif)' title='Video Walkthrough' width='' length=''  alt='Video Walkthrough'/>
+<img src='![](https://i.postimg.cc/KvRHYdnX/Kapture-2023-06-21-at-16-02-06)' title='Video Walkthrough' width='' length=''  alt='Video Walkthrough'/>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
