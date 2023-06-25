@@ -17,8 +17,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<!-- ![](gify.gif) -->
-<img src='![](https://imgur.com/a/lX4ZULH.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](gify.gif)
+<!--<img src='![](https://imgur.com/a/lX4ZULH.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />-->
 
 
 
