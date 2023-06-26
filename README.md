@@ -4,7 +4,7 @@ Submitted by: **Krish Kothari**
 
 **Color Changer** is an app that has three labels and one button. The labels are my name(Krish Kothari), the university I attend(University of Virginia), and my desired profession(App Developer). The button, when clicked, changes the background of the screen to any random color. The button can be clicked as many times as needed and the color of the background will be changed each time the button is clicked.
 
-Time spent: **30** minutes spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
