@@ -46,6 +46,7 @@ Snapchat:
 An app that I am interested in building is a meditation app that shows different techniques of meditation and has in-built resources that can help users alleviate stress and find inner peace. This app would have a built-in timer that will be integrated with the guided meditation. Users will have the option to configure the timer to their liking, taking breaks in between if they wish. This app will ask the user how they feel before and after each session. Lastly, the app will record the user's history of every session and will be able to showcase which meditation technique helped them the most.
 
 ## Notes
+No challenges!
 
 
 ## License
